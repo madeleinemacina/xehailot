@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eemoghere.angusmcmaster.com/sitemap.xml
